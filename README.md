@@ -1,6 +1,6 @@
-# Online-Venure-Booking-and-Tour-Planning
+# Online-Venue-Booking-and-Tour-Planning
 
-<a href = 'http://www.ovbtp.com/'> Online Venure Booking and Tour Planning (OVBTP.COM) - BS Final Year Project </a>
+<a href = 'http://www.ovbtp.com/'> Online Venue Booking and Tour Planning (OVBTP.COM) - BS Final Year Project </a>
 # <a href = 'http://www.ovbtp.com/'> http://www.ovbtp.com </a>
 <br>
 ## Objectives:	
