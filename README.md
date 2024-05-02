@@ -29,28 +29,28 @@ My project OVBTP (Online Venue Booking and Tour Planner) is to convert the manua
 
 ## ERD:
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/94362b24-8401-4784-ad41-9503776d8497)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/94362b24-8401-4784-ad41-9503776d8497'>
 
 <br>
 
 ## System Screenshots:
 
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/34f2c8c0-a3b7-475d-b874-bb6db6979805)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/34f2c8c0-a3b7-475d-b874-bb6db6979805'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/7eb7644b-4678-4a05-b2ec-7bf1da11313b)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/7eb7644b-4678-4a05-b2ec-7bf1da11313b'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/756b67e8-14b9-4ad9-bbdd-d3a3c0a501c5)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/756b67e8-14b9-4ad9-bbdd-d3a3c0a501c5'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/1404ae47-382e-421b-856f-a6840f097eed)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/1404ae47-382e-421b-856f-a6840f097eed'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/d4650054-035f-4b59-8467-e6e123dfd75c)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/d4650054-035f-4b59-8467-e6e123dfd75c'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/221c34ca-147f-4fe2-93ad-55aae595bb67)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/221c34ca-147f-4fe2-93ad-55aae595bb67'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/b25c49a6-8036-4698-980e-f299a97be0b7)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/b25c49a6-8036-4698-980e-f299a97be0b7'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/744428ab-6ca1-40ac-bdeb-13a261408f71)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/744428ab-6ca1-40ac-bdeb-13a261408f71'>
 <br>
-![image](https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/89302af8-4734-4a51-8549-7ebff62f8b20)
+<img src='https://github.com/rashidrao-pk/Online-Venue-Booking-and-Tour-Planning/assets/25412736/89302af8-4734-4a51-8549-7ebff62f8b20'>
 
