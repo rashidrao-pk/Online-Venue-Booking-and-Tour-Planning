@@ -4,7 +4,7 @@
 # <a href = 'http://www.ovbtp.com/'> http://www.ovbtp.com </a>
 <br>
 ## Objectives:	
-  To Provide and efficient and effective system that could manage online venue bookings easily.
+  To Provide and efficient and effective system that could manage online venue bookings easily. This web application is developed using MVC in CodeIgnitor framework for PHP language.
 
 ## Tools Used:
   Adobe Photoshop
@@ -13,12 +13,6 @@
   MYSQL
   PHP 
   Dreamweaver cs5
-
-## Operating System	
-  Windows 7 
-  Windows 8
-## System Used
-  Dell Core 2 Duo
 
 
 # Abstract:
